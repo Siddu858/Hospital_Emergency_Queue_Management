@@ -1,0 +1,29 @@
+
+> hospital-emergency-queue-backend@1.0.0 dev
+> node src/server.js
+
+Emergency queue API listening on http://localhost:4000
+[SMS fallback] 11111111111: You are registered in the emergency queue. Estimated wait: 0 minutes.
+[SMS fallback] 11111111111: Doctor Srinadh is ready to see you now. Please proceed to the consultation room.
+[SMS fallback] 345453533: You are registered in the emergency queue. Estimated wait: 0 minutes.
+[SMS fallback] 293376386: You are registered in the emergency queue. Estimated wait: 0 minutes.
+[SMS fallback] 999999: You are registered in the emergency queue. Estimated wait: 0 minutes.
+[SMS fallback] 999999: You are registered in the emergency queue. Estimated wait: 0 minutes.
+[SMS fallback] 293376386: You are registered in the emergency queue. Estimated wait: 0 minutes.
+[SMS fallback] 293376386: You are registered in the emergency queue. Estimated wait: 0 minutes.
+[SMS fallback] 293376386: You are registered in the emergency queue. Estimated wait: 0 minutes.
+[SMS fallback] 293376386: You are registered in the emergency queue. Estimated wait: 0 minutes.
+[SMS fallback] 345453533: Doctor Vishnu is ready to see you now. Please proceed to the consultation room.
+[SMS fallback] 293376386: Doctor Srinadh is ready to see you now. Please proceed to the consultation room.
+[SMS fallback] 999999: Doctor Vishnu is ready to see you now. Please proceed to the consultation room.
+[SMS fallback] 9999999999: You are registered in the emergency queue. Estimated wait: 0 minutes.
+[SMS fallback] 9999999999: You are registered in the emergency queue. Estimated wait: 0 minutes.
+[SMS fallback] 9999999999: You are registered in the emergency queue. Estimated wait: 0 minutes.
+[SMS fallback] 9999999999: You are registered in the emergency queue. Estimated wait: 0 minutes.
+[SMS fallback] 9999999999: Doctor Vishnu is ready to see you now. Please proceed to the consultation room.
+[SMS fallback] 4444444444444: You are registered in the emergency queue. Estimated wait: 0 minutes.
+[SMS fallback] 4444444444444: You are registered in the emergency queue. Estimated wait: 0 minutes.
+[SMS fallback] 4444444444444: You are registered in the emergency queue. Estimated wait: 0 minutes.
+[SMS fallback] 4444444444444: You are registered in the emergency queue. Estimated wait: 0 minutes.
+[SMS fallback] 4444444444444: You are registered in the emergency queue. Estimated wait: 0 minutes.
+[SMS fallback] 4444444444444: Doctor Srinadh is ready to see you now. Please proceed to the consultation room.
